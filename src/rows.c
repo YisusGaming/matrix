@@ -1,3 +1,10 @@
+/*
+* Copyright (C) 2023 YisusCoding
+* Released under the MIT License.
+*
+* See LICENSE for full license details.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
