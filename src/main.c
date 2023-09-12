@@ -1,5 +1,5 @@
 /*
-* Copyright (C) 2023 YisusCoding
+* Copyright (C) 2023 YisusGaming
 * Released under the MIT License.
 *
 * See LICENSE for full license details.
