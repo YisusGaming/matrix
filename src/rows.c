@@ -1,5 +1,5 @@
 /*
-* Copyright (C) 2023 YisusGaming
+* Copyright (C) 2023 Jesús "YisusGaming" Blanco
 * Released under the MIT License.
 *
 * See LICENSE for full license details.
