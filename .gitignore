@@ -1,2 +1,5 @@
 # folders
 build/
+
+# cache dirs
+.cache/

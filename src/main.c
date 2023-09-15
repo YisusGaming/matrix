@@ -26,7 +26,7 @@ int main(int argc, char const *argv[])
         /* yellow */ "\033[1;33m"
     };
 
-    while(1 == 1) {
+    while(1) {
         char* row = generate_random_row();
         int i_color = rand() % 5;
         printf("%s%s%s", colors[i_color], row, colors[0]);
